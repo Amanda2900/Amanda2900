@@ -6,7 +6,7 @@ I am a software engineer who enjoys making programs that are engaging and easily
 -  🖥️  See my portfolio at [https://amanda-dinoto.netlify.app/](http://amanda-dinoto.netlify.app/)
 - ✉️  You can contact me at [amanda.dinoto@gmail.com](mailto:amanda.dinoto@gmail.com) 
 - 🧠  I'm currently learning React and TypeScript
--  ⚡  I love cats, tea, reading, video games, DnD, hiking, and baking
+-  ⚡  I love cats, tea, reading, video games, DnD, traveling, hiking, and baking
 
 ### Skills
 

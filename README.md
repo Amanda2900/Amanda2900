@@ -2,7 +2,7 @@
 
 I am a software engineer who enjoys making programs that are engaging and easily accessible to everyone. I use my resourcefulness to tackle complicated problems. I am passionate about contributing to a well organized, open minded environment that fosters creativity and collaboration. My background in film and theater production enables me to easily adapt to new situations, quickly think of efficient solutions and collaborate well with a team.
 - 🌍  I'm based in New York, NY
-- 😄 Pronouns: she/her
+- 😄 My pronouns are she/her
 -  🖥️  See my portfolio at [https://amanda-dinoto.netlify.app/](http://amanda-dinoto.netlify.app/)
 - ✉️  You can contact me at [amanda.dinoto@gmail.com](mailto:amanda.dinoto@gmail.com) 
 - 🧠  I'm currently learning React and TypeScript

@@ -1,11 +1,10 @@
-### Hi 👋 My name is Amanda DiNoto
+### Hi! My name is Amanda DiNoto
 
-I am a software engineer who enjoys making programs that are engaging and easily accessible to everyone. I use my resourcefulness to tackle complicated problems. I am passionate about contributing to a well organized, open minded environment that fosters creativity and collaboration. My background in film and theater production enables me to easily adapt to new situations, quickly think of efficient solutions and collaborate well with a team.
+As a professional software engineer, I am committed to crafting engaging and user-friendly software solutions. I bring resourcefulness and adept problem-solving skills to tackle complex technical challenges. Passionate about fostering a well-organized and open-minded work environment, I adapt quickly to new situations and collaborate effectively with team members. With diverse experiences in film and theater production, I possess efficient problem-solving and teamwork skills, making me a valuable asset to any software engineering team.
 - 🌍  I'm based in New York, NY
 - 😄 My pronouns are she/her
 -  🖥️  See my portfolio at [https://amanda-dinoto.netlify.app/](http://amanda-dinoto.netlify.app/)
 - ✉️  You can contact me at [amanda.dinoto@gmail.com](mailto:amanda.dinoto@gmail.com) 
-- 🧠  I'm currently learning React and TypeScript
 -  ⚡  I love cats, tea, reading, video games, DnD, traveling, hiking, and baking
 
 ### Skills
@@ -16,8 +15,3 @@ I am a software engineer who enjoys making programs that are engaging and easily
 
 <p align="left"> <a href="https://www.github.com/Amanda2900" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amanda-dinoto/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Amanda2900"><img src="https://github-readme-stats.vercel.app/api?username=Amanda2900&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amanda2900's GitHub stats" /></a>

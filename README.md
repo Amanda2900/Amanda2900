@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Amanda DiNoto
 
-As a professional software engineer, I am committed to crafting engaging and user-friendly software solutions. I bring resourcefulness and adept problem-solving skills to tackle complex technical challenges. Passionate about fostering a well-organized and open-minded work environment, I adapt quickly to new situations and collaborate effectively with team members. With diverse experiences in film and theater production, I possess efficient problem-solving and teamwork skills, making me a valuable asset to any software engineering team.
+As a professional software engineer, I am committed to crafting engaging and user-friendly software solutions. I bring resourcefulness and adept problem-solving skills to help tackle complex technical challenges. Passionate about fostering a well-organized and open-minded work environment, I adapt quickly to new situations and collaborate effectively with team members. With a background in film and theater production, I possess efficient problem-solving and teamwork skills, making me a valuable asset to any software engineering team.
 - 🌍  I'm based in New York, NY
 - 😄 My pronouns are she/her
 -  🖥️  Check out my [portfolio](http://amanda-dinoto.netlify.app/)

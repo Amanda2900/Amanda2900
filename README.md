@@ -3,7 +3,7 @@
 As a professional software engineer, I am committed to crafting engaging and user-friendly software solutions. I bring resourcefulness and adept problem-solving skills to help tackle complex technical challenges. Passionate about fostering a well-organized and open-minded work environment, I adapt quickly to new situations and collaborate effectively with team members. With a background in film and theater production, I possess efficient problem-solving and teamwork skills, making me a valuable asset to any software engineering team.
 - 🌍  I'm based in New York, NY
 - 😄 My pronouns are she/her
-- 🌱 My most recent project is [Connectient](https://github.com/Full-Stack-Collective/connectient)
+- 🌱 My most recent projects are [Explore Art](https://github.com/Amanda2900/explore-art), [Calculator](https://github.com/Amanda2900/calculator), and [Connectient](https://github.com/Full-Stack-Collective/connectient)
 - 🖥️  Check out my [portfolio](http://amanda-dinoto.netlify.app/)
 - ✉️  You can contact me at [amanda.dinoto@gmail.com](mailto:amanda.dinoto@gmail.com) 
 - ⚡  I love cats, tea, reading, video games, DnD, traveling, hiking, and baking

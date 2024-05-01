@@ -4,7 +4,7 @@ As a professional software engineer, I am committed to crafting engaging and use
 - 🌍  I'm based in New York, NY
 - 😄 My pronouns are she/her
 - 🌱 My most recent projects are [Explore Art](https://github.com/Amanda2900/explore-art), [Calculator](https://github.com/Amanda2900/calculator), and [Connectient](https://github.com/Full-Stack-Collective/connectient)
-- 🖥️  Check out my [portfolio](http://amanda-dinoto.netlify.app/)
+- 🖥️  Check out my [portfolio](https://amanda-dinoto.com/)
 - ✉️  You can contact me at [amanda.dinoto@gmail.com](mailto:amanda.dinoto@gmail.com) 
 - ⚡  I love cats, tea, reading, video games, DnD, traveling, hiking, and baking
 
